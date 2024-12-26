@@ -1,0 +1,92 @@
+﻿  CountSum.cpp
+C:\Users\Polina\Test_Taylor\CountSum.cpp(21,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  test.cpp
+C:\Users\Polina\Test_Taylor\test.cpp(21,5): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ASSERT_NEAR"
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(21,5): error C2275: "std::invalid_argument": ожидается выражение вместо типа
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(21,5): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(21,5): error C2181: недопустимый else без парного if
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(21,5): error C2065: gtest_ar: необъявленный идентификатор
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(21,5): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "testing::internal::AssertHelper"
+  (компиляция исходного файла "/test.cpp")
+      C:\Users\Polina\Test_Taylor\test.cpp(21,5):
+      testing::internal::AssertHelper::AssertHelper: функция не принимает 3 аргументов
+          C:\Users\Polina\Test_Taylor\test.cpp(21,5):
+          при попытке сопоставить список аргументов "(testing::TestPartResult::Type, const char [37], int)"
+  
+C:\Users\Polina\Test_Taylor\test.cpp(22,5): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ASSERT_NEAR"
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(22,5): error C2275: "std::invalid_argument": ожидается выражение вместо типа
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(22,5): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(22,5): error C2181: недопустимый else без парного if
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(22,5): error C2065: gtest_ar: необъявленный идентификатор
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(22,5): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "testing::internal::AssertHelper"
+  (компиляция исходного файла "/test.cpp")
+      C:\Users\Polina\Test_Taylor\test.cpp(22,5):
+      testing::internal::AssertHelper::AssertHelper: функция не принимает 3 аргументов
+          C:\Users\Polina\Test_Taylor\test.cpp(22,5):
+          при попытке сопоставить список аргументов "(testing::TestPartResult::Type, const char [37], int)"
+  
+C:\Users\Polina\Test_Taylor\test.cpp(23,5): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ASSERT_NEAR"
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(23,5): error C2275: "std::invalid_argument": ожидается выражение вместо типа
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(23,5): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(23,5): error C2181: недопустимый else без парного if
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(23,5): error C2065: gtest_ar: необъявленный идентификатор
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(23,5): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "testing::internal::AssertHelper"
+  (компиляция исходного файла "/test.cpp")
+      C:\Users\Polina\Test_Taylor\test.cpp(23,5):
+      testing::internal::AssertHelper::AssertHelper: функция не принимает 3 аргументов
+          C:\Users\Polina\Test_Taylor\test.cpp(23,5):
+          при попытке сопоставить список аргументов "(testing::TestPartResult::Type, const char [37], int)"
+  
+C:\Users\Polina\Test_Taylor\test.cpp(24,5): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ASSERT_NEAR"
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(24,5): error C2275: "std::invalid_argument": ожидается выражение вместо типа
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(24,5): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(24,5): error C2181: недопустимый else без парного if
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(24,5): error C2065: gtest_ar: необъявленный идентификатор
+  (компиляция исходного файла "/test.cpp")
+  
+C:\Users\Polina\Test_Taylor\test.cpp(24,5): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "testing::internal::AssertHelper"
+  (компиляция исходного файла "/test.cpp")
+      C:\Users\Polina\Test_Taylor\test.cpp(24,5):
+      testing::internal::AssertHelper::AssertHelper: функция не принимает 3 аргументов
+          C:\Users\Polina\Test_Taylor\test.cpp(24,5):
+          при попытке сопоставить список аргументов "(testing::TestPartResult::Type, const char [37], int)"
+  
+  Создание кода...
