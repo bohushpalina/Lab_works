@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Polina\С++\Algoruthm\Source.cpp(30,36): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+C:\Users\Polina\С++\Algoruthm\Source.cpp(35,33): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+C:\Users\Polina\С++\Algoruthm\Source.cpp(37,25): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+C:\Users\Polina\С++\Algoruthm\Source.cpp(56,46): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  Algoruthm.vcxproj -> C:\Users\Polina\С++\Algoruthm\x64\Debug\Algoruthm.exe

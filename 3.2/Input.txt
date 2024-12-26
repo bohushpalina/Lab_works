@@ -1,0 +1,7 @@
+1001 Book_1 2000 AuthorLastName1 AuthorFirstName1 AuthorMiddleName1
+1002 Book_2 2001 AuthorLastName2 AuthorFirstName2 AuthorMiddleName2 AuthorLastName3 AuthorFirstName3 AuthorMiddleName3
+1003 Book_3 2002 AuthorLastName3 AuthorFirstName3 AuthorMiddleName3
+1004 Book_4 2003 AuthorLastName4 AuthorFirstName4 AuthorMiddleName4 AuthorLastName5 AuthorFirstName5 AuthorMiddleName5
+1005 Book_5 2004 AuthorLastName5 AuthorFirstName5 AuthorMiddleName5
+1006 Book_6 2005 AuthorLastName6 AuthorFirstName6 AuthorMiddleName6
+1007 Book_7 2006 AuthorLastName7 AuthorFirstName7 AuthorMiddleName7 AuthorLastName8 AuthorFirstName8 AuthorMiddleName8

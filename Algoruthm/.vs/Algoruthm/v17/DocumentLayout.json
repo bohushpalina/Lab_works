@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Polina\\\u0421\u002B\u002B\\Algoruthm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC0E810-ACA1-4FDF-BF38-A5AF6A9F86D1}|Algoruthm.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\Algoruthm\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC0E810-ACA1-4FDF-BF38-A5AF6A9F86D1}|Algoruthm.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC0E810-ACA1-4FDF-BF38-A5AF6A9F86D1}|Algoruthm.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\Algoruthm\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CC0E810-ACA1-4FDF-BF38-A5AF6A9F86D1}|Algoruthm.vcxproj|solutionrelative:Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 709,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\Algoruthm\\Input.txt",
+              "RelativeDocumentMoniker": "Input.txt",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\Algoruthm\\Input.txt",
+              "RelativeToolTip": "Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-22T12:39:37.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\Algoruthm\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\Algoruthm\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T12:38:55.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

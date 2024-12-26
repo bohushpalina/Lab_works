@@ -1,0 +1,3 @@
+﻿  12_вар.cpp
+C:\Users\Polina\С++\03.10.2024\12_вар.cpp(138,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  03.10.2024.vcxproj -> C:\Users\Polina\С++\03.10.2024\x64\Debug\Лаб_3_1.exe

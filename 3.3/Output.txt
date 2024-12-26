@@ -1,0 +1,210 @@
+Список всех слов:
+a
+allows
+alongside
+an
+analysis
+and
+another
+applications
+apps
+are
+around
+artificial
+as
+asynchronous
+been
+browsers
+by
+c
+c++
+capabilities
+class-based
+clean
+commonly
+computing
+content
+corporations
+create
+css
+data
+decades
+dependencies
+derived
+designed
+desktop
+developers
+development
+dynamic
+easy
+effects
+embedded
+enterprise-level
+events
+few
+for
+from
+functional
+handle
+has
+have
+html
+imperative
+implementation
+in
+including
+influenced
+intelligence
+interactive
+is
+it
+its
+java
+javascript
+known
+language
+languages
+large
+learn
+low-level
+manage
+manipulation
+many
+memory
+mobile
+multiple
+object-oriented
+of
+operating
+or
+other
+paradigms
+performance
+possible
+programming
+python
+python's
+range
+requests
+scientific
+scripting
+such
+supports
+syntax
+systems
+that
+the
+to
+understand
+used
+versatile
+web
+wide
+widely
+within
+you
+Список всех слов с количество вхождения каждого:
+Слово: a, кол-во вхождений: 2
+Слово: allows, кол-во вхождений: 2
+Слово: alongside, кол-во вхождений: 1
+Слово: an, кол-во вхождений: 1
+Слово: analysis, кол-во вхождений: 1
+Слово: and, кол-во вхождений: 10
+Слово: another, кол-во вхождений: 1
+Слово: applications, кол-во вхождений: 3
+Слово: apps, кол-во вхождений: 1
+Слово: are, кол-во вхождений: 1
+Слово: around, кол-во вхождений: 1
+Слово: artificial, кол-во вхождений: 1
+Слово: as, кол-во вхождений: 3
+Слово: asynchronous, кол-во вхождений: 1
+Слово: been, кол-во вхождений: 1
+Слово: browsers, кол-во вхождений: 1
+Слово: by, кол-во вхождений: 2
+Слово: c, кол-во вхождений: 3
+Слово: c++, кол-во вхождений: 1
+Слово: capabilities, кол-во вхождений: 1
+Слово: class-based, кол-во вхождений: 1
+Слово: clean, кол-во вхождений: 1
+Слово: commonly, кол-во вхождений: 1
+Слово: computing, кол-во вхождений: 1
+Слово: content, кол-во вхождений: 1
+Слово: corporations, кол-во вхождений: 1
+Слово: create, кол-во вхождений: 2
+Слово: css, кол-во вхождений: 1
+Слово: data, кол-во вхождений: 1
+Слово: decades, кол-во вхождений: 1
+Слово: dependencies, кол-во вхождений: 1
+Слово: derived, кол-во вхождений: 1
+Слово: designed, кол-во вхождений: 1
+Слово: desktop, кол-во вхождений: 1
+Слово: developers, кол-во вхождений: 1
+Слово: development, кол-во вхождений: 2
+Слово: dynamic, кол-во вхождений: 1
+Слово: easy, кол-во вхождений: 2
+Слово: effects, кол-во вхождений: 1
+Слово: embedded, кол-во вхождений: 1
+Слово: enterprise-level, кол-во вхождений: 1
+Слово: events, кол-во вхождений: 1
+Слово: few, кол-во вхождений: 1
+Слово: for, кол-во вхождений: 3
+Слово: from, кол-во вхождений: 2
+Слово: functional, кол-во вхождений: 1
+Слово: handle, кол-во вхождений: 1
+Слово: has, кол-во вхождений: 1
+Слово: have, кол-во вхождений: 1
+Слово: html, кол-во вхождений: 1
+Слово: imperative, кол-во вхождений: 1
+Слово: implementation, кол-во вхождений: 1
+Слово: in, кол-во вхождений: 4
+Слово: including, кол-во вхождений: 1
+Слово: influenced, кол-во вхождений: 1
+Слово: intelligence, кол-во вхождений: 1
+Слово: interactive, кол-во вхождений: 1
+Слово: is, кол-во вхождений: 11
+Слово: it, кол-во вхождений: 2
+Слово: its, кол-во вхождений: 2
+Слово: java, кол-во вхождений: 4
+Слово: javascript, кол-во вхождений: 2
+Слово: known, кол-во вхождений: 1
+Слово: language, кол-во вхождений: 4
+Слово: languages, кол-во вхождений: 1
+Слово: large, кол-во вхождений: 1
+Слово: learn, кол-во вхождений: 1
+Слово: low-level, кол-во вхождений: 1
+Слово: manage, кол-во вхождений: 1
+Слово: manipulation, кол-во вхождений: 1
+Слово: many, кол-во вхождений: 1
+Слово: memory, кол-во вхождений: 1
+Слово: mobile, кол-во вхождений: 1
+Слово: multiple, кол-во вхождений: 1
+Слово: object-oriented, кол-во вхождений: 2
+Слово: of, кол-во вхождений: 1
+Слово: operating, кол-во вхождений: 1
+Слово: or, кол-во вхождений: 1
+Слово: other, кол-во вхождений: 1
+Слово: paradigms, кол-во вхождений: 1
+Слово: performance, кол-во вхождений: 1
+Слово: possible, кол-во вхождений: 1
+Слово: programming, кол-во вхождений: 7
+Слово: python, кол-во вхождений: 4
+Слово: python's, кол-во вхождений: 1
+Слово: range, кол-во вхождений: 1
+Слово: requests, кол-во вхождений: 1
+Слово: scientific, кол-во вхождений: 1
+Слово: scripting, кол-во вхождений: 1
+Слово: such, кол-во вхождений: 1
+Слово: supports, кол-во вхождений: 1
+Слово: syntax, кол-во вхождений: 1
+Слово: systems, кол-во вхождений: 3
+Слово: that, кол-во вхождений: 1
+Слово: the, кол-во вхождений: 1
+Слово: to, кол-во вхождений: 6
+Слово: understand, кол-во вхождений: 1
+Слово: used, кол-во вхождений: 5
+Слово: versatile, кол-во вхождений: 1
+Слово: web, кол-во вхождений: 3
+Слово: wide, кол-во вхождений: 1
+Слово: widely, кол-во вхождений: 2
+Слово: within, кол-во вхождений: 1
+Слово: you, кол-во вхождений: 1

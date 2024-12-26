@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA076FBD-45DC-4DDE-95D5-4FB5CF4E71FE}|3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Author.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA076FBD-45DC-4DDE-95D5-4FB5CF4E71FE}|3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F.vcxproj|solutionrelative:Author.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA076FBD-45DC-4DDE-95D5-4FB5CF4E71FE}|3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA076FBD-45DC-4DDE-95D5-4FB5CF4E71FE}|3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F.vcxproj|solutionrelative:Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA076FBD-45DC-4DDE-95D5-4FB5CF4E71FE}|3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA076FBD-45DC-4DDE-95D5-4FB5CF4E71FE}|3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF697547-0A41-4674-B0F8-6FE555401DE4}|..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_3_\u0437\u0430\u0434\u0430\u043D\u0438\u0435\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_3_\u0437\u0430\u0434\u0430\u043D\u0438\u0435.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_3_\u0437\u0430\u0434\u0430\u043D\u0438\u0435\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099493F-3486-4F2F-A09C-26682C3ABDE8}|..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099493F-3486-4F2F-A09C-26682C3ABDE8}|..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099493F-3486-4F2F-A09C-26682C3ABDE8}|..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4.vcxproj|C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 421,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Author.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Author.cpp",
+              "RelativeDocumentMoniker": "Author.cpp",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Author.cpp",
+              "RelativeToolTip": "Author.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T10:55:39.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Book.cpp",
+              "RelativeDocumentMoniker": "Book.cpp",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Book.cpp",
+              "RelativeToolTip": "Book.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T10:55:35.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Input.txt",
+              "RelativeDocumentMoniker": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Input.txt",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Input.txt",
+              "RelativeToolTip": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T19:51:40.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\main.cpp",
+              "RelativeDocumentMoniker": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\main.cpp",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\main.cpp",
+              "RelativeToolTip": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\main.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T19:30:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_3_\u0437\u0430\u0434\u0430\u043D\u0438\u0435\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3.cpp",
+              "RelativeDocumentMoniker": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_3_\u0437\u0430\u0434\u0430\u043D\u0438\u0435\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3.cpp",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_3_\u0437\u0430\u0434\u0430\u043D\u0438\u0435\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3.cpp",
+              "RelativeToolTip": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_3_\u0437\u0430\u0434\u0430\u043D\u0438\u0435\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435_3.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T19:55:06.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Output.txt",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Output.txt",
+              "RelativeDocumentMoniker": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Output.txt",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Output.txt",
+              "RelativeToolTip": "..\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F_\u0437\u0430\u0434\u0430\u043D\u0438\u0435_4\\Output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-16T19:51:49.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Polina\\\u0421\u002B\u002B\\3_\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u043E_\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0430\u044F\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T18:01:17.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
