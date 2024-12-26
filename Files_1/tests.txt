@@ -1,0 +1,64 @@
+case1:
+
+input:  //нет необходимого слова
+world
+Goodbye, everyone!
+;:!?
+Nothing to see here.
+
+output:
+Nothing to see here.
+
+case2:  //одно искомое слово в строке
+
+input:
+cat
+The feline creature.
+ .;,
+Cats are great pets. The cat sat on the mat.
+
+output:
+Cats are great pets. The The feline creature. sat on the mat.
+
+case3:  //недостаточно входных строк
+
+input:
+cat
+000
+
+output //должен выдать ошибку
+
+case4: //много искомых строк
+
+input:
+test
+Replacement successful.
+ ,.!?
+test test test test test test test test test test test test
+
+output:
+Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful. Replacement successful.
+
+case5:
+
+input: //искомое слово в предложении для вставки
+ 
+sentence
+This is a replacement sentence.
+ ,.!?
+This line will  sentence remain unchanged.
+
+output:
+This line will  This is a replacement sentence. remain unchanged.
+
+case6: //русский язык
+
+input:
+торт
+пирог был вкусный
+ ,.?-!
+торт, приготовленный ею, получился вкусным, этот торт удался.
+
+ output:
+пирог был вкусный, приготовленный ею, получился вкусным, этот пирог был вкусный удался.
+
