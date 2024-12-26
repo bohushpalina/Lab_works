@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Polina\\\u041B\u0430\u0431_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61161F6-5B82-48D5-B9E1-6FA3527229C3}|..\\15\\15.vcxproj|C:\\Users\\Polina\\15\\15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ED62C1-95E3-4A6F-A316-ABCE876DFCE8}|..\\18\\18.vcxproj|C:\\Users\\Polina\\18\\18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Polina\\Downloads\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\Downloads\\1.cpp",
+              "RelativeDocumentMoniker": "..\\Downloads\\1.cpp",
+              "ToolTip": "C:\\Users\\Polina\\Downloads\\1.cpp",
+              "RelativeToolTip": "..\\Downloads\\1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T16:16:38.01Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "18.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\18\\18.cpp",
+              "RelativeDocumentMoniker": "..\\18\\18.cpp",
+              "ToolTip": "C:\\Users\\Polina\\18\\18.cpp",
+              "RelativeToolTip": "..\\18\\18.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T20:12:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "15.cpp",
+              "DocumentMoniker": "C:\\Users\\Polina\\15\\15.cpp",
+              "RelativeDocumentMoniker": "..\\15\\15.cpp",
+              "ToolTip": "C:\\Users\\Polina\\15\\15.cpp",
+              "RelativeToolTip": "..\\15\\15.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T18:46:07.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

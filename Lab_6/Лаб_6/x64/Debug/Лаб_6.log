@@ -1,0 +1,3 @@
+﻿  1_вариант.cpp
+C:\Users\Polina\С++\Лаб_6\1_вариант.cpp(88,25): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  Лаб_6.vcxproj -> C:\Users\Polina\С++\Лаб_6\x64\Debug\Лаб_6.exe

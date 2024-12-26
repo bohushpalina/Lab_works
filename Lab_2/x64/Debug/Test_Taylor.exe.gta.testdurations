@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\Polina\Лаб_2\x64\Debug\Test_Taylor.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CountSumTest.ValidInput" Duration="1" />
+    <TestDuration Test="CountSumTest.InvalidInput" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
